@@ -53,7 +53,7 @@ Desarrollador full-stack en C# y .NET estudiante de Ingeniería Mecánica y Lice
 ## 🎓 Education
 
 - 🎓 **Tecnico en Programación**  
-  _(E.S.E.T.) de la Universidad Nacional de Quilme, Buenos Aires_
+  _(E.S.E.T.) de la Universidad Nacional de Quilmes, Buenos Aires_
 
 - 📚 **Ingenieria Mecánica (in progress)**  
   _University of La Plata_
