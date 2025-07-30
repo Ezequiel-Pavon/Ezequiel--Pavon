@@ -83,30 +83,5 @@ Soy un desarrollador full-stack con experiencia en C#, .NET y desarrollo de soft
 
 ---
 
-## 📌 Pinned Projects
-
-[🔹 WordGuessGame in C#](https://github.com/tuusuario/WordGuessGame)  
-[🔹 HTTP Server en .NET](https://github.com/tuusuario/HttpServer)  
-[🔹 DNS Server](https://github.com/tuusuario/DNSServer)  
-[🔹 C# Game Engine](https://github.com/tuusuario/CSGameEngine)  
-
----
-
-## 📚 Recommended Readings
-
-- _The Pragmatic Programmer_ – Hunt & Thomas  
-- _Clean Code_ – Robert C. Martin  
-- _Domain-Driven Design_ – Eric Evans  
-- _Introduction to Algorithms_ – Cormen et al.
-
----
-
-## 📫 Get in Touch
-
-- Email: tuemail@example.com  
-- LinkedIn: [TuNombre](https://linkedin.com/in/tu-linkedin)  
-- Web personal o blog (opcional)
-
----
 
 ⭐ ¡Gracias por visitar mi perfil!
