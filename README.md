@@ -42,7 +42,7 @@ Desarrollador full-stack en C# y .NET estudiante de Ingeniería Mecánica y Lice
 
 ### 👨‍💻 Software Developer  
 **[JLF Materiales Eléctricos]** – Buenos Aires  
-`2020 – Presente`  
+`Abril 2023 – Octubre 2023`  
 - Cree software para tableros electricos.  
 - Implemente un servidor para manejar corriente de archivos centralizados.  
 - Automatización de procesos y actualización de hardware y Software.  
