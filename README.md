@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm [Tu Nombre]</h1>
-<h3 align="center">A passionate full-stack developer from [Tu Ciudad o País]</h3>
+<h1 align="center">Sup, I'm Ezequiel Pavón</h1>
+<h3 align="center">A passionate full-stack developer from Buenos Aires</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/tu-twitter" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:tuemail@example.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="www.linkedin.com/in/eduardo-ezequiel-pavón" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" alt="LinkedIn" /></a>
+  <a href="pavoneduardoezequiel001@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Soy un desarrollador full-stack con experiencia en C#, .NET y desarrollo de software robusto orientado a objetos. Me encanta diseñar sistemas limpios, mantenibles y escalar soluciones reales. Apasionado por la filosofía, la tecnología y la educación.
+Desarrollador full-stack en C# y .NET estudiante de Ingeniería Mecánica y Licenciatura en Informatica en la UNLP
 
 ---
 
@@ -20,6 +19,7 @@ Soy un desarrollador full-stack con experiencia en C#, .NET y desarrollo de soft
 ### Main Languages  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 ### Web & Apps  
