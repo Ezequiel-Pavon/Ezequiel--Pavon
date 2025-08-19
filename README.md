@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Desarrollador full-stack en C# y .NET estudiante de Ingeniería Mecánica y Licenciatura en Informatica en la UNLP
+Desarrollador full-stack en C# y .NET estudiante de Ingeniería Mecánica y Ingenieria en Computación en la UNLP
 
 ---
 
