@@ -62,7 +62,7 @@ Desarrollador full-stack en C# y .NET estudiante de Ingeniería Mecánica y Lice
 - 📚 **Ingenieria Mecánica (in progress)**  
   _University of La Plata_
 
-- 👨‍💻 **Licenciatura en Informática (in progress)**  
+- 👨‍💻 **Ingenieria en Computación (in progress)**  
   _University of La Plata_
 
 ---
